@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  28 JAN 2013 17:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  28 JAN 2013 18:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -85,6 +85,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 ) (./ee4900Project.aux
+
+LaTeX Warning: Label `img:pico' multiply defined.
+
+
+LaTeX Warning: Label `img:pico' multiply defined.
+
 
 LaTeX Warning: Label `img:pic' multiply defined.
 
@@ -225,15 +231,12 @@ Package epstopdf Info: Source file: <images/msp430image.eps>
 (epstopdf)                    date: 2013-01-28 17:15:57
 (epstopdf)                    size: 1282581 bytes
 (epstopdf)             Output file: <images/msp430image-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-28 17:16:40
+(epstopdf)                    size: 187215 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/msp430image-eps-con
 verted-to.pdf images/msp430image.eps>
 (epstopdf)             \includegraphics on input line 54.
-runsystem(repstopdf --outfile=images/msp430image-eps-converted-to.pdf images/ms
-p430image.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/msp430image-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-01-28 17:16:40
-(epstopdf)                    size: 187215 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <images/msp430image-eps-converted-to.pdf, id=17, 1013.7875pt x 977.6525pt>
 File: images/msp430image-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -280,20 +283,73 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
- [3 <./images/fet430uif-eps-converted-to.pdf>] <images/pic.jpeg, id=36, 225.843
-75pt x 225.84375pt>
+
+<images/pico.jpg, id=29, 193.72375pt x 262.9825pt>
+File: images/pico.jpg Graphic file (type jpg)
+ <use images/pico.jpg>
+Package pdftex.def Info: images/pico.jpg used on input line 114.
+(pdftex.def)             Requested size: 96.86163pt x 131.49092pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+<images/picoFlowChart.png, id=30, 905.3825pt x 352.31625pt>
+File: images/picoFlowChart.png Graphic file (type png)
+
+<use images/picoFlowChart.png>
+Package pdftex.def Info: images/picoFlowChart.png used on input line 126.
+(pdftex.def)             Requested size: 452.69014pt x 176.15768pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./images/fet430uif-eps-converted-to.pdf>]
+<images/superCluster.png, id=39, 387.4475pt x 288.07625pt>
+File: images/superCluster.png Graphic file (type png)
+
+<use images/superCluster.png>
+Package pdftex.def Info: images/superCluster.png used on input line 153.
+(pdftex.def)             Requested size: 193.72327pt x 144.03777pt.
+ [4 <./images/pico.jpg> <./images/picoFlowChart.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <images/papilio.png, id=45, 702.625pt x 526.96875pt>
+File: images/papilio.png Graphic file (type png)
+
+<use images/papilio.png>
+Package pdftex.def Info: images/papilio.png used on input line 167.
+(pdftex.def)             Requested size: 351.31163pt x 263.48372pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/pic.jpeg, id=46, 225.84375pt x 225.84375pt>
 File: images/pic.jpeg Graphic file (type jpg)
-
-<use images/pic.jpeg>
-Package pdftex.def Info: images/pic.jpeg used on input line 129.
+ <use images/pic.jpeg>
+Package pdftex.def Info: images/pic.jpeg used on input line 190.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./images/superCluster.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [4 <./images/pic.jpeg>]
+ [6 <./images/papilio.png> <./images/pic.jpeg>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -301,49 +357,53 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-<images/pickit.jpg, id=41, 491.8375pt x 222.8325pt>
+<images/pickit.jpg, id=55, 491.8375pt x 222.8325pt>
 File: images/pickit.jpg Graphic file (type jpg)
  <use images/pickit.jpg>
-Package pdftex.def Info: images/pickit.jpg used on input line 184.
+Package pdftex.def Info: images/pickit.jpg used on input line 245.
 (pdftex.def)             Requested size: 245.91814pt x 111.41597pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--192
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-[5 <./images/pickit.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
 
  []
 
-[6] [7] (./ee4900Project.aux)
+[8 <./images/pickit.jpg>] [9] (./ee4900Project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2088 strings out of 493488
- 29701 string characters out of 3146892
- 93248 words of memory out of 3000000
- 5368 multiletter control sequences out of 15000+200000
+ 2110 strings out of 493488
+ 30173 string characters out of 3146892
+ 93272 words of memory out of 3000000
+ 5386 multiletter control sequences out of 15000+200000
  9416 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,8n,23p,501b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,23p,501b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ee4900Project.pdf (10 pages, 376505 bytes).
+Output written on ee4900Project.pdf (12 pages, 1205135 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
