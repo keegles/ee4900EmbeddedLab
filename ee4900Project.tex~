@@ -1,0 +1,66 @@
+\documentclass[12pt]{article}
+\usepackage{titling}
+\usepackage[top=1in, bottom=1.5in, left=1in, right=1in]{geometry}
+
+%\setlength{\droptitle}{-10em}
+
+\title{Designing an Embedded Microcontroller Laboratory}
+\author{Team 12 \\ Stuart Larsen \ \ \ \ \   Troy Drabek \\ Keegan Larkin \ \ \ \ \   Adam Funkenbusch }
+\date{\today}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\pagebreak
+\begin{abstract}
+
+This document gives a brief overview of the designs for the embedded microcontroller laboratory. \\
+
+\noindent
+The current design for the laboratory entails multiple lab benches configured to ease in the development of software systems for popular microcontroller and embedded systems. Included in the laboratory will also be a station for the fabrication of new custom embedded systems.
+
+\end{abstract}
+
+\thispagestyle{empty}
+\pagebreak
+
+\tableofcontents
+\thispagestyle{empty}
+\pagebreak
+\setcounter{page}{1}
+
+
+\section{Overview}
+
+\section{Team Members}
+\begin{center}
+    \begin{tabular}{  l | p{8cm} | l }
+    Name & Position & Email \\
+    \hline
+    Stuart Larsen & Project Lead & sclarsen@mtu.edu \\ 
+    Troy Drabek & Expert in Microcontroller Design & tqdrabek@mtu.edu \\
+    Keegan Larkin & Expert in Fabrication and Synthsis of Macro Quantum Electrodynamic Embedded Devices  & kjlarkin@mtu.edu \\
+    Adam Funkenbusch & Expert wire cutter & aefunken@mtu.edu \\
+
+    \end{tabular}
+\end{center}
+
+\section{Microcontrollers}
+
+
+\section{Todo}
+\begin{itemize}
+  \item Generate list of supported microcontrollers
+  \item Generate gantt chart for project timeline
+  \item For each microcontroller determine:
+    \begin{itemize}
+      \item Cost
+      \item Necessary Software
+      \item Necessary Adapters and Plugs
+      \item Necessary equipment (shields/modules/dongles...)
+     \end{itemize}
+  \item Design lab bench for fabrication of custom embedded devices
+\end{itemize}
+
+\end{document}
