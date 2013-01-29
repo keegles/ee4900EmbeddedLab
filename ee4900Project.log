@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  29 JAN 2013 10:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  29 JAN 2013 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,12 +354,35 @@ File: images/papilio.png Graphic file (type png)
 <use images/papilio.png>
 Package pdftex.def Info: images/papilio.png used on input line 206.
 (pdftex.def)             Requested size: 351.31163pt x 263.48372pt.
- [7 <./images/papilio.png>]
-<images/pic.jpeg, id=59, 225.84375pt x 225.84375pt>
+ <images/pi.png, id=55, 1027.84pt x 684.5575pt>
+File: images/pi.png Graphic file (type png)
+
+<use images/pi.png>
+Package pdftex.def Info: images/pi.png used on input line 231.
+(pdftex.def)             Requested size: 513.91875pt x 342.27791pt.
+
+Overfull \hbox (44.16373pt too wide) in paragraph at lines 231--232
+ [][] 
+ []
+
+[7 <./images/papilio.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+[8 <./images/pi.png>] <images/pic.jpeg, id=64, 225.84375pt x 225.84375pt>
 File: images/pic.jpeg Graphic file (type jpg)
- <use images/pic.jpeg>
-Package pdftex.def Info: images/pic.jpeg used on input line 242.
+
+<use images/pic.jpeg>
+Package pdftex.def Info: images/pic.jpeg used on input line 279.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+ [9 <./images/pic.jpeg>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -367,57 +390,51 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-[8 <./images/pic.jpeg>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- <images/pickit.jpg, id=63, 491.8375pt x 222.8325pt>
+<images/pickit.jpg, id=69, 491.8375pt x 222.8325pt>
 File: images/pickit.jpg Graphic file (type jpg)
-
-<use images/pickit.jpg>
-Package pdftex.def Info: images/pickit.jpg used on input line 297.
+ <use images/pickit.jpg>
+Package pdftex.def Info: images/pickit.jpg used on input line 334.
 (pdftex.def)             Requested size: 245.91814pt x 111.41597pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
-
- []
-
-[9 <./images/pickit.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 314--321
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 340--342
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--321
+Underfull \hbox (badness 10000) in paragraph at lines 351--358
 
  []
 
-[10] [11] (./ee4900Project.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--358
+
+ []
+
+[11 <./images/pickit.jpg>] [12] (./ee4900Project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2116 strings out of 493488
- 30282 string characters out of 3146892
- 93282 words of memory out of 3000000
- 5391 multiletter control sequences out of 15000+200000
+ 2121 strings out of 493488
+ 30365 string characters out of 3146892
+ 94291 words of memory out of 3000000
+ 5396 multiletter control sequences out of 15000+200000
  9416 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,8n,23p,501b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ee4900Project.pdf (14 pages, 1234954 bytes).
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ee4900Project.pdf (15 pages, 1991962 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

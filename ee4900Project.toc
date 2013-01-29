@@ -20,10 +20,15 @@
 \contentsline {subsubsection}{\numberline {3.3.2}Cost}{7}
 \contentsline {subsubsection}{\numberline {3.3.3}Why we need it}{7}
 \contentsline {subsubsection}{\numberline {3.3.4}Sensors/Extras}{7}
-\contentsline {subsection}{\numberline {3.4}PIC18 Series}{8}
-\contentsline {subsubsection}{\numberline {3.4.1}PIC18LF4550-I/P}{8}
-\contentsline {subsubsection}{\numberline {3.4.2}Why do we need it?}{8}
-\contentsline {subsubsection}{\numberline {3.4.3}Extra components}{9}
-\contentsline {subsubsection}{\numberline {3.4.4}Cost}{10}
-\contentsline {subsubsection}{\numberline {3.4.5}Software Needed}{10}
-\contentsline {subsubsection}{\numberline {3.4.6}Other considerations}{10}
+\contentsline {subsection}{\numberline {3.4}Raspberry PI}{8}
+\contentsline {subsubsection}{\numberline {3.4.1}Description}{8}
+\contentsline {subsubsection}{\numberline {3.4.2}Why we need it}{8}
+\contentsline {subsubsection}{\numberline {3.4.3}Cost}{9}
+\contentsline {subsubsection}{\numberline {3.4.4}Software}{9}
+\contentsline {subsection}{\numberline {3.5}PIC18 Series}{9}
+\contentsline {subsubsection}{\numberline {3.5.1}PIC18LF4550-I/P}{9}
+\contentsline {subsubsection}{\numberline {3.5.2}Why do we need it?}{10}
+\contentsline {subsubsection}{\numberline {3.5.3}Extra components}{10}
+\contentsline {subsubsection}{\numberline {3.5.4}Cost}{11}
+\contentsline {subsubsection}{\numberline {3.5.5}Software Needed}{11}
+\contentsline {subsubsection}{\numberline {3.5.6}Other considerations}{11}
