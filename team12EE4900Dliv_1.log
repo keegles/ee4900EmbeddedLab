@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  12 FEB 2013 10:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.17)  5 FEB 2013 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\nonstopmode\input ee4900ProjectDeliv.tex
-(./ee4900ProjectDeliv.tex (/usr/share/texmf-dist/tex/latex/base/article.cls
+**\nonstopmode\input team12EE4900Dliv_1.tex
+(./team12EE4900Dliv_1.tex (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
@@ -85,8 +85,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 )
-(./ee4900ProjectDeliv.aux)
-\openout1 = `ee4900ProjectDeliv.aux'.
+No file team12EE4900Dliv_1.aux.
+\openout1 = `team12EE4900Dliv_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -100,7 +100,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
-
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count91
@@ -239,66 +238,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
+[3 <./images/layout.png>] (./team12EE4900Dliv_1.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
- []
-
-[3 <./images/layout.png>]
-! Misplaced alignment tab character &.
-<argument> .../xpl/articleDetails.jsp?reload=true&
-                                                  arnumber=4117022
-l.81 ...eDetails.jsp?reload=true&arnumber=4117022}
-                                                  
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--92
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
-
- []
-
-[5] (./ee4900ProjectDeliv.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 2039 strings out of 493488
- 28886 string characters out of 3146892
- 93261 words of memory out of 3000000
- 5340 multiletter control sequences out of 15000+200000
- 9155 words of font info for 32 fonts, out of 3000000 for 9000
+ 2034 strings out of 493488
+ 28804 string characters out of 3146892
+ 93250 words of memory out of 3000000
+ 5338 multiletter control sequences out of 15000+200000
+ 8501 words of font info for 30 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,8n,23p,1180b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on ee4900ProjectDeliv.pdf (5 pages, 96091 bytes).
+ 38i,8n,23p,404b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on team12EE4900Dliv_1.pdf (3 pages, 74276 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
